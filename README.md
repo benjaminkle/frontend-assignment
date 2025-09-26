@@ -1,3 +1,5 @@
+![GIF Demo for project](demo/Assignment1.gif)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
